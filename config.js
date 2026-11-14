@@ -5,5 +5,5 @@
 
 // Endereço da API (back-end)
 // TEMPORÁRIO: usando o servidor local. Para voltar à produção, troque pela linha comentada.
-const API_BASE_URL = "https://minha-agenda-flax-tau.vercel.app";
+const API_BASE_URL = "https://minha-agenda-front-beta.vercel.app/";
 // const API_BASE_URL = "http://localhost:8000";
